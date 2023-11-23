@@ -15,8 +15,6 @@ Repositório de materiais usados para o minicurso de WordPress na Universidade F
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-<br>
-
 ## 📌 Slides
 Para abrir clique [aqui](https://www.canva.com/design/DAF0SLZeLFQ/yRPemSOjvcBqxI7Inxyguw/view?utm_content=DAF0SLZeLFQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel).
 
