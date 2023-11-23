@@ -18,12 +18,12 @@ Repositório de materiais usados para o minicurso de WordPress na Universidade F
 ## 📌 Slides
 [Para abrir os slides clique aqui](https://www.canva.com/design/DAF0SLZeLFQ/yRPemSOjvcBqxI7Inxyguw/view?utm_content=DAF0SLZeLFQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel).
 
+## 💻 Projeto
+Esse projeto simples consiste na criação de uma landing page utilizando as ferramentas do WordPress e o plugin Elementor. 📆
+
 <p align="center">
   <img alt="Landing Page para Desafio - Itatechjr." src="./images/Site - Itatech 2023.png" width="100%">
 </p>
-
-## 💻 Projeto
-Esse projeto simples consiste na criação de uma landing page utilizando as ferramentas do WordPress e o plugin Elementor. 📆
 
 
 ## 🚀 Materiais
