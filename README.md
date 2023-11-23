@@ -16,7 +16,7 @@ Repositório de materiais usados para o minicurso de WordPress na Universidade F
 </p>
 
 ## 📌 Slides
-Para abrir clique [aqui](https://www.canva.com/design/DAF0SLZeLFQ/yRPemSOjvcBqxI7Inxyguw/view?utm_content=DAF0SLZeLFQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel).
+[Para abrir os slides clique aqui](https://www.canva.com/design/DAF0SLZeLFQ/yRPemSOjvcBqxI7Inxyguw/view?utm_content=DAF0SLZeLFQ&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel).
 
 <p align="center">
   <img alt="Landing Page para Desafio - Itatechjr." src="./images/Site - Itatech 2023.png" width="100%">
